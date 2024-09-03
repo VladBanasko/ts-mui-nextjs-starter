@@ -26,7 +26,7 @@ sections:
         https://res.cloudinary.com/dqqmdilxn/image/upload/v1649283409/samples/animals/three-dogs.jpg
       altText: Hero section image
   - type: CardsSection
-    title: Cards Section Component
+    title: Card Segment
     subtitle: Section subtitle here
     items:
       - type: Card
