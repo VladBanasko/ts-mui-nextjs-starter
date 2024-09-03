@@ -5,10 +5,8 @@ sections:
   - type: HeroSection
     title: 'Hi, I''m Tanya'
     subtitle: Digital Marketing
-    text: >
-      This is the HeroSection component. You can visually edit this component &
-      add more sections while developing locally. [Learn
-      more.](https://docs.netlify.com/visual-editor/local-development/)
+    text: |
+      Please put something useful here
     actions:
       - type: Button
         label: Start Building
