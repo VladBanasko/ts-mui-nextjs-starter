@@ -22,7 +22,8 @@ sections:
         color: primary
     image:
       type: Image
-      url: /images/hero.svg
+      url: >-
+        https://res.cloudinary.com/dqqmdilxn/image/upload/v1649283409/samples/animals/three-dogs.jpg
       altText: Hero section image
   - type: CardsSection
     title: Cards Section Component
